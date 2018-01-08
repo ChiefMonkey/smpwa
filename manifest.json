@@ -1,0 +1,15 @@
+{
+  "short_name": "Shoosh Monkey",
+  "name": "Shoosh Monkey | G Suite automation specialists",
+  "icons": [
+    {
+      "src": "https://daks2k3a4ib2z.cloudfront.net/58e83f43fc1f4437999ecc1f/5a534aca0a77cc0001b13930_SM-head-Apps-trans-w260h260.png",
+      "type": "image/png",
+      "sizes": "260x260"
+    }
+  ],
+  "start_url": "index.html?launcher=true",
+  "background_color": "#1f6fff",
+  "display": "standalone",
+  "theme_color": "#1f6fff"
+}
